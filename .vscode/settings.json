@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "miEntornoVirtual\\Scripts\\python.exe",
+    "python.analysis.diagnosticSeverityOverrides": {"reportMissingImports": "none"}
+}
